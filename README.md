@@ -12,9 +12,6 @@ This project extracts text from the **Wikipedia page of India**, cleans it using
 
 ---
 
-
-
-
 "**🚀 Features**":
   - "🌐 Fetches raw HTML content from the Wikipedia page of India."
   - "🧹 Cleans and processes the text:"
@@ -54,19 +51,30 @@ This project extracts text from the **Wikipedia page of India**, cleans it using
   command: "tag_identification_nlp.py"
   
 ----
-"**📊 Output**":
-  files:
-    - "📄 CSV File → top_100_words.csv"
-    - "📊 Word Frequency Plot → Displays Top 20 words"
-  csv_file_link: "https://github.com/Vaishnavirajulu21/NLP/blob/main/top_100_words.csv"
-  csv_file: "top_100_words.csv"
-  csv_preview:
-    - { Words: "india", Count: 120 }
-    - { Words: "indian", Count: 80 }
-    - { Words: "states", Count: 65 }
-    - { Words: "history", Count: 50 }
-    - { Words: "people", Count: 45 }
-  visualization: "📈 A bar chart showing the Top 20 most frequent words."
+## 📊 Output  
+
+**Files**  
+- 📄 CSV File → `top_100_words.csv`  
+- 📊 Word Frequency Plot → Displays Top 20 words  
+
+**CSV File Link**  
+🔗 [top_100_words.csv](https://github.com/Vaishnavirajulu21/NLP/blob/main/top_100_words.csv)  
+
+**CSV File**
+- 📄 CSV File → `top_100_words.csv`
+
+
+**CSV Preview**  
+| Words   | Count |
+|---------|-------|
+| india   | 120   |
+| indian  | 80    |
+| states  | 65    |
+| history | 50    |
+| people  | 45    |
+
+**Visualization**  
+📈 A bar chart showing the **Top 20 most frequent words**
 
   
 ---
