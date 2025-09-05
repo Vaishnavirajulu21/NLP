@@ -1,4 +1,8 @@
-# 🇮🇳 **Wikipedia Text Analysis – India Page**
+# project: "🇮🇳 Wikipedia Text Analysis – India Page"
+# description: >
+
+This project extracts text from the **Wikipedia page of India**, cleans it using **Natural Language Processing (NLP)**, and generates insights such as the **Top 100 most frequent words**. The results are saved into a **CSV file** and visualized using a **frequency distribution plot**.
+
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)  
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-yellow)  
@@ -6,22 +10,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange) 
 
 
-project: "🇮🇳 Wikipedia Text Analysis – India Page"
-
-This project extracts text from the **Wikipedia page of India**, cleans it using **Natural Language Processing (NLP)**, and generates insights such as the **Top 100 most frequent words**. The results are saved into a **CSV file** and visualized using a **frequency distribution plot**.
-
 ---
 
 
 
-# project: "🇮🇳 Wikipedia Text Analysis – India Page"
-# description: >
-  This project extracts text from the Wikipedia page of India, cleans it using 
-  Natural Language Processing (NLP), and generates insights such as the Top 100 
-  most frequent words. The results are saved into a CSV file and visualized 
-  using a frequency distribution plot.
-
----
 
 "**🚀 Features**":
   - "🌐 Fetches raw HTML content from the Wikipedia page of India."
@@ -46,9 +38,9 @@ This project extracts text from the **Wikipedia page of India**, cleans it using
 ---
 
 "**📂 Project Structure**": |
-  ├── script.py            # Main Python script
-  ├── top_100_words.csv    # Output CSV file (Top 100 words with counts)
-  └── README.md            # Documentation
+  - ├── script.py            # Main Python script
+  - ├── top_100_words.csv    # Output CSV file (Top 100 words with counts)
+  - └── README.md            # Documentation
 
   ---
 
@@ -66,7 +58,7 @@ This project extracts text from the **Wikipedia page of India**, cleans it using
   files:
     - "📄 CSV File → top_100_words.csv"
     - "📊 Word Frequency Plot → Displays Top 20 words"
-    - csv_file_link: "https://github.com/Vaishnavirajulu21/NLP/NLP/main/top_100_words.csv"
+  csv_file_link: "https://github.com/Vaishnavirajulu21/NLP/blob/main/top_100_words.csv"
   csv_file: "top_100_words.csv"
   csv_preview:
     - { Words: "india", Count: 120 }
@@ -75,6 +67,7 @@ This project extracts text from the **Wikipedia page of India**, cleans it using
     - { Words: "history", Count: 50 }
     - { Words: "people", Count: 45 }
   visualization: "📈 A bar chart showing the Top 20 most frequent words."
+
   
 ---
 
@@ -94,7 +87,7 @@ This project extracts text from the **Wikipedia page of India**, cleans it using
 ---
 
 "**👩‍💻 Author**":
-  name: "Vaishnavi"
-  role: "Biomedical Engineer turned Data Enthusiast"
-  skills: " Python | 🧠 NLP | 📊 Data Analytics"
-  note: "⭐ If you like this project, don’t forget to star the repo!"
+ - name: "Vaishnavi"
+ - role: "Biomedical Engineer turned Data Enthusiast"
+ - skills: " Python | 🧠 NLP | 📊 Data Analytics"
+ - note: "⭐ If you like this project, don’t forget to star the repo!"
