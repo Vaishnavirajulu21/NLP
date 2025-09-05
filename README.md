@@ -12,42 +12,42 @@ This project extracts text from the **Wikipedia page of India**, cleans it using
 
 ---
 
-"**🚀 Features**":
-  - "🌐 Fetches raw HTML content from the Wikipedia page of India."
-  - "🧹 Cleans and processes the text:"
-  - "🔡 Converts words to lowercase"
-  - "✂️ Removes punctuation and numbers"
-  - "🛑 Removes stopwords (e.g., is, the, at)"
-  - "📑 Performs tokenization and word frequency distribution"
-  - "🏆 Extracts the Top 100 most common words"
-  - "💾 Saves results in a CSV file (top_100_words.csv)"
-  - "📊 Visualizes the top words using Matplotlib"
+# 🚀 Features
+  - 🌐 Fetches raw HTML content from the Wikipedia page of India.
+  - 🧹 Cleans and processes the text
+  - 🔡 Converts words to lowercase
+  - ✂️ Removes punctuation and numbers
+  - 🛑 Removes stopwords (e.g., is, the, at)
+  - 📑 Performs tokenization and word frequency distribution
+  - 🏆 Extracts the Top 100 most common words
+  - 💾 Saves results in a CSV file (top_100_words.csv)
+  - 📊 Visualizes the top words using Matplotlib
 
   - ---
 
-"**🛠️ Technologies Used**":
-  - "🐍 Python"
-  - "🍲 BeautifulSoup – for web scraping and parsing HTML"
-  - "📚 NLTK – for stopword removal and frequency analysis"
-  - "📈 Matplotlib – for data visualization"
-  - "🗂️ CSV module – for saving results"
+# 🛠️ Technologies Used
+  - 🐍 Python
+  - 🍲 BeautifulSoup – for web scraping and parsing HTML
+  - 📚 NLTK – for stopword removal and frequency analysis
+  - 📈 Matplotlib – for data visualization
+  - 🗂️ CSV module – for saving results
 
 ---
 
-"**📂 Project Structure**": |
+# 📂 Project Structure
   - ├── script.py            # Main Python script
   - ├── top_100_words.csv    # Output CSV file (Top 100 words with counts)
   - └── README.md            # Documentation
 
   ---
 
-"**⚙️ Installation**":
+# ⚙️ Installation
   - pip install beautifulsoup4
   - pip install nltk
   - pip install matplotlib
   - pip install html5lib
 
-"**▶️ Run**":
+# ▶️ Run
   command: "tag_identification_nlp.py"
   
 ----
@@ -79,23 +79,23 @@ This project extracts text from the **Wikipedia page of India**, cleans it using
   
 ---
 
-"**✅ Use Cases**":
-  - "🧹 Text cleaning and preprocessing practice in NLP"
-  - "📊 Frequency distribution analysis"
-  - "🌐 Web scraping + NLP mini-project"
-  - "👩‍💻 Beginner-friendly project to learn NLTK + BeautifulSoup"
+# ✅ Use Cases
+  - 🧹 Text cleaning and preprocessing practice in NLP
+  - 📊 Frequency distribution analysis
+  - 🌐 Web scraping + NLP mini-project
+  - 👩‍💻 Beginner-friendly project to learn NLTK + BeautifulSoup
 ---
 
-"**📌 Future Improvements**":
-  - "🌥️ Add Word Cloud visualization"
-  - "🌍 Extend analysis to other Wikipedia pages"
-  - "😊 Perform Sentiment Analysis"
-  - "💾 Store results in a Database"
+ # 📌 Future Improvements
+  - 🌥️ Add Word Cloud visualization
+  - 🌍 Extend analysis to other Wikipedia pages
+  - 😊 Perform Sentiment Analysis
+  - 💾 Store results in a Database
 
 ---
 
-"**👩‍💻 Author**":
+# 👩‍💻 Author
  - name: "Vaishnavi"
  - role: "Biomedical Engineer turned Data Enthusiast"
- - skills: " Python | 🧠 NLP | 📊 Data Analytics"
- - note: "⭐ If you like this project, don’t forget to star the repo!"
+ - skills: Python | 🧠 NLP | 📊 Data Analytics
+ - note: ⭐ If you like this project, don’t forget to star the repo!
